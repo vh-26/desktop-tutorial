@@ -140,7 +140,7 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x1bHVsdWJvL0ZpbG0tYW5kLVRlbGV2aXNpb24tUmVzZXJ2ZS9tYWluL0NhdGxpdmUudHh0"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x1bHVsdWJvL2Rlc2t0b3AtdHV0b3JpYWwvbWFpbi9DYXRsaXZlLnR4dD90b2tlbj1HSFNBVDBBQUFBQUFCVUFXMzdGMzU0M0hINkU2NlZFTTRSQVlUM0MyV0E="
 ]
 }
 ]
