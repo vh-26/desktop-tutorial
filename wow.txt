@@ -1,3 +1,4 @@
+玩偶,#genre#
 情侣游戏 零,https://v4.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
 情侣游戏 壹,https://v4.cvhlscdn.com/20230129/zqeHgwbd/hls/index.m3u8
 一日女友的漂亮姐姐 上,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8?
@@ -56,6 +57,7 @@
 花絮-公共场合,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lu/2b/qx/84/13f8f69e45ff4c85ac114a3df7b1ca9e.m3u8?
 花絮-幕后花絮·1,https://v4.cvhlscdn.com/20210918/pg4sWQLe/index.m3u8
 花絮-幕后花絮·2,https://v4.cvhlscdn.com/20221105/0NXbWItw/hls/index.m3u8
+直播,#genre#
 SexyDoll_JOJO,https://edge-hls.doppiocdn.com/hls/81368539/master/81368539.m3u8
 Littlelucky_,https://edge-hls.doppiocdn.com/hls/92787952/master/92787952.m3u8
 Swag_SASA,https://edge-hls.doppiocdn.com/hls/87862444/master/87862444.m3u8
@@ -143,6 +145,7 @@ YourHobby,https://edge-hls.doppiocdn.com/hls/20166219/master/20166219.m3u8
 Makabaka66,https://edge-hls.doppiocdn.com/hls/87923970/master/87923970.m3u8
 CelestialFoxxx,https://edge-hls.doppiocdn.com/hls/84480977/master/84480977.m3u8
 DiamondJo_,https://edge-hls.doppiocdn.com/hls/102365918/master/102365918.m3u8
+番号,#genre#
 ssni-895新名,https://t5s.cdn2020.com/video/m3u8/2020/10/24/47f23b08/index.m3u8
 ssni-872新名,https://t4s.cdn2020.com/video/m3u8/2020/10/02/1b6076c4/index.m3u8
 ssni-970新名,https://t6s.cdn2020.com/video/m3u8/2021/03/07/ee3ae27c/index.m3u8
@@ -2173,6 +2176,7 @@ ymdd-240白川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/ba7e3a25/inde
 ymdd-242白川奏音,https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/a08937ab/index.m3u8
 ysn-565渚,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8
 ysn-566高瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8
+欧美,#genre#
 ADULT: 1,http://bandookk.xyz:8000/Geniptv/persian_share/15353
 ADULT: 2,http://bandookk.xyz:8000/Geniptv/persian_share/15354
 ADULT: 3,http://bandookk.xyz:8000/Geniptv/persian_share/15355
@@ -2631,6 +2635,7 @@ Pandora Perfect 潘朵拉玩美,http://58.99.33.2:1935/liveedge2/jZPELJzi_411_1/
 Pandora Pink 潘朵拉粉红,http://58.99.33.2:1935/liveedge2/jZPELJzi_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 Amazing TV 驚豔台,http://58.99.33.2:1935/liveedge2/jZPELJzi_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 BananaHD 香蕉台,http://58.99.33.2:1935/liveedge2/jZPELJzi_414_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+麻豆,#genre#
 MLT-002/连续被上的OL,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/da/bj/1c/et/399a1a6f21a74a6b9a391b1903ce2f3c.m3u8?
 MSD-001/乱伦迷情药,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
 MSD-002/维修工的心跳艳遇(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8?
